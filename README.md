@@ -1,0 +1,1 @@
+Basic webpack config to refer to
